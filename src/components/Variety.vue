@@ -6,7 +6,9 @@ export default {
 
 <template>
   <section>
+    <div>
 
+    </div>
   </section>
 </template>
 
