@@ -49,10 +49,5 @@ export default {
 </template>
 
 <style>
-.btn_primary, .btn_secondary {
-  @apply relative flex h-14 w-48 bg-green-800 items-center justify-center text-white uppercase shadow-2xl overflow-hidden transition-all before:absolute before:h-0 before:w-0 before:rounded-full before:bg-white before:duration-500 before:ease-out hover:text-black hover:before:h-60 hover:before:w-60;
-}
-.btn_secondary {
-  @apply bg-black
-}
+
 </style>
