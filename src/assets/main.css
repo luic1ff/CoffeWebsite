@@ -7,6 +7,9 @@
     font-family: "Poppins", sans-serif;
 }
 
+html{
+    scroll-behavior: smooth;
+}
 
 body {
     @apply poppins max-w-[1920px] mx-auto bg-white text-green-950 text-sm;
