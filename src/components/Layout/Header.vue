@@ -65,9 +65,9 @@ export default {
             </div>
 
             <ul class="flex flex-col items-start gap-5 lg:flex-row">
-              <li><a href="#home" class="nav-link">Home</a></li>
+              <li><a href="#home" class="nav-link active">Home</a></li>
               <li><a href="#about" class="nav-link">About</a></li>
-              <li><a href="#fragrrance" class="nav-link">Fragrance</a></li>
+              <li><a href="#fragrance" class="nav-link">Fragrance</a></li>
               <li><a href="#quality" class="nav-link">Quality</a></li>
               <li><a href="#products" class="nav-link">Products</a></li>
             </ul>
@@ -147,7 +147,7 @@ export default {
         
           <div class="flex items-center justify-center mt-10">
             <div class="flex justify-center gap-6">
-              <a href="#home" class="nav-link">Home</a>
+              <a href="#home" class="nav-link active">Home</a>
               <a href="#about" class="nav-link">About</a>
               <a href="#fragrance" class="nav-link">Fragrance</a>
               <a href="#quality" class="nav-link">Quality</a>

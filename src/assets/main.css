@@ -7,7 +7,12 @@
     font-family: "Poppins", sans-serif;
 }
 
+.active{
+    @apply text-green-700;
+}
+
 html{
+    @apply overflow-x-hidden bg-green-950;
     scroll-behavior: smooth;
 }
 
