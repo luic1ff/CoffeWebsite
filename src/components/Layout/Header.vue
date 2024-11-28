@@ -80,7 +80,7 @@ export default {
                   <a href="#"><i class="ri-instagram-line"></i></a>
                 </li>
                 <li class="border-2 border-black size-8 rounded-full grid place-items-center">
-                  <a href="#"><i class="ri-github-line"></i></a>
+                  <a href="https://github.com/luic1ff"><i class="ri-github-line"></i></a>
                 </li>
                 <li class="border-2 border-black size-8 rounded-full grid place-items-center">
                   <a href="#"><i class="ri-facebook-fill"></i></a>
@@ -115,7 +115,7 @@ export default {
                   <a href="#" class="text-green-700"><i class="ri-instagram-line"></i></a>
                 </li>
                 <li class="border-2 border-green-900 size-8 rounded-full grid place-items-center">
-                  <a href="#" class="text-green-700"><i class="ri-github-line"></i></a>
+                  <a href="https://github.com/luic1ff" class="text-green-700"><i class="ri-github-line"></i></a>
                 </li>
                 <li class="border-2 border-green-900 size-8 rounded-full grid place-items-center">
                   <a href="#" class="text-green-700"><i class="ri-facebook-fill"></i></a>

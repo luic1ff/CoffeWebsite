@@ -5,10 +5,14 @@ import App from './App.vue'
 
 createApp(App).mount('#app')
 
+// Read More
+
+
+
 // Scroll Up
 
 const scrollUp = () => {
-    const scrollUpBtn = document.getElementById('scroll-up');
+    const scrollUpBtn = document.querySelector('.scroll-up');
 
     if (window.scrollY >= 150) {
         scrollUpBtn.classList.remove('-bottom-1/2');

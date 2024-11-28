@@ -26,7 +26,7 @@
   <!--~~~~~~~~~~~~~~~ FOOTER ~~~~~~~~~~~~~~~-->
   <Footer/>
 
-  <a id="scroll-up" href="#" class="fixed right-4 -bottom-1/2 bg-black text-white hover:text-black cursor-pointer z-50 md:h-20 md:w-20 h-16 w-16 rounded-full text-xs uppercase grid place-items-center hover:bg-white hover:-translate-y-1 duration-300">
+  <a href="#" class="scroll-up fixed right-4 -bottom-1/2 bg-black text-white hover:text-black cursor-pointer z-50 md:h-20 md:w-20 h-16 w-16 rounded-full text-xs uppercase grid place-items-center hover:bg-white hover:-translate-y-1 duration-300">
     <div>
       <img class="w-8 mx-auto" src="@/assets/images/scroll_icon.png" alt="scroll icon">
       <span>Go Top</span>
